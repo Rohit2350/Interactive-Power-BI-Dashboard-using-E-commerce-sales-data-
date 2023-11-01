@@ -40,5 +40,5 @@ The owner of the **E-Commerce Store** wants us to create an <a href="https://git
 
 ## **Final Conclusion**
 
-The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures. To improve sales of the **Madhav E-Commerce Store**, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
+The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures. To improve sales of the **E-Commerce Store**, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
 
